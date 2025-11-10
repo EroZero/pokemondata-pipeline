@@ -1,0 +1,798 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "height": 7,
+    "weight": 69,
+    "base_experience": 64,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+  },
+  {
+    "id": 2,
+    "name": "ivysaur",
+    "height": 10,
+    "weight": 130,
+    "base_experience": 142,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+  },
+  {
+    "id": 3,
+    "name": "venusaur",
+    "height": 20,
+    "weight": 1000,
+    "base_experience": 236,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "height": 6,
+    "weight": 85,
+    "base_experience": 62,
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+  },
+  {
+    "id": 5,
+    "name": "charmeleon",
+    "height": 11,
+    "weight": 190,
+    "base_experience": 142,
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+  },
+  {
+    "id": 6,
+    "name": "charizard",
+    "height": 17,
+    "weight": 905,
+    "base_experience": 240,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "height": 5,
+    "weight": 90,
+    "base_experience": 63,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+  },
+  {
+    "id": 8,
+    "name": "wartortle",
+    "height": 10,
+    "weight": 225,
+    "base_experience": 142,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+  },
+  {
+    "id": 9,
+    "name": "blastoise",
+    "height": 16,
+    "weight": 855,
+    "base_experience": 239,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+  },
+  {
+    "id": 10,
+    "name": "caterpie",
+    "height": 3,
+    "weight": 29,
+    "base_experience": 39,
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "shield-dust",
+      "run-away"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+  },
+  {
+    "id": 11,
+    "name": "metapod",
+    "height": 7,
+    "weight": 99,
+    "base_experience": 72,
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "shed-skin"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+  },
+  {
+    "id": 12,
+    "name": "butterfree",
+    "height": 11,
+    "weight": 320,
+    "base_experience": 178,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "abilities": [
+      "compound-eyes",
+      "tinted-lens"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+  },
+  {
+    "id": 13,
+    "name": "weedle",
+    "height": 3,
+    "weight": 32,
+    "base_experience": 39,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "shield-dust",
+      "run-away"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+  },
+  {
+    "id": 14,
+    "name": "kakuna",
+    "height": 6,
+    "weight": 100,
+    "base_experience": 72,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "shed-skin"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+  },
+  {
+    "id": 15,
+    "name": "beedrill",
+    "height": 10,
+    "weight": 295,
+    "base_experience": 178,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "swarm",
+      "sniper"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+  },
+  {
+    "id": 16,
+    "name": "pidgey",
+    "height": 3,
+    "weight": 18,
+    "base_experience": 50,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "tangled-feet",
+      "big-pecks"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+  },
+  {
+    "id": 17,
+    "name": "pidgeotto",
+    "height": 11,
+    "weight": 300,
+    "base_experience": 122,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "tangled-feet",
+      "big-pecks"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+  },
+  {
+    "id": 18,
+    "name": "pidgeot",
+    "height": 15,
+    "weight": 395,
+    "base_experience": 216,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "tangled-feet",
+      "big-pecks"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+  },
+  {
+    "id": 19,
+    "name": "rattata",
+    "height": 3,
+    "weight": 35,
+    "base_experience": 51,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "run-away",
+      "guts",
+      "hustle"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+  },
+  {
+    "id": 20,
+    "name": "raticate",
+    "height": 7,
+    "weight": 185,
+    "base_experience": 145,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "run-away",
+      "guts",
+      "hustle"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+  },
+  {
+    "id": 21,
+    "name": "spearow",
+    "height": 3,
+    "weight": 20,
+    "base_experience": 52,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "sniper"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
+  },
+  {
+    "id": 22,
+    "name": "fearow",
+    "height": 12,
+    "weight": 380,
+    "base_experience": 155,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "sniper"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
+  },
+  {
+    "id": 23,
+    "name": "ekans",
+    "height": 20,
+    "weight": 69,
+    "base_experience": 58,
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "intimidate",
+      "shed-skin",
+      "unnerve"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
+  },
+  {
+    "id": 24,
+    "name": "arbok",
+    "height": 35,
+    "weight": 650,
+    "base_experience": 157,
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "intimidate",
+      "shed-skin",
+      "unnerve"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+  },
+  {
+    "id": 25,
+    "name": "pikachu",
+    "height": 4,
+    "weight": 60,
+    "base_experience": 112,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "static",
+      "lightning-rod"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+  },
+  {
+    "id": 26,
+    "name": "raichu",
+    "height": 8,
+    "weight": 300,
+    "base_experience": 218,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "static",
+      "lightning-rod"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+  },
+  {
+    "id": 27,
+    "name": "sandshrew",
+    "height": 6,
+    "weight": 120,
+    "base_experience": 60,
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "sand-rush"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
+  },
+  {
+    "id": 28,
+    "name": "sandslash",
+    "height": 10,
+    "weight": 295,
+    "base_experience": 158,
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "sand-rush"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
+  },
+  {
+    "id": 29,
+    "name": "nidoran-f",
+    "height": 4,
+    "weight": 70,
+    "base_experience": 55,
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
+  },
+  {
+    "id": 30,
+    "name": "nidorina",
+    "height": 8,
+    "weight": 200,
+    "base_experience": 128,
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
+  },
+  {
+    "id": 31,
+    "name": "nidoqueen",
+    "height": 13,
+    "weight": 600,
+    "base_experience": 227,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "sheer-force"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
+  },
+  {
+    "id": 32,
+    "name": "nidoran-m",
+    "height": 5,
+    "weight": 90,
+    "base_experience": 55,
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
+  },
+  {
+    "id": 33,
+    "name": "nidorino",
+    "height": 9,
+    "weight": 195,
+    "base_experience": 128,
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
+  },
+  {
+    "id": 34,
+    "name": "nidoking",
+    "height": 14,
+    "weight": 620,
+    "base_experience": 227,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "sheer-force"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
+  },
+  {
+    "id": 35,
+    "name": "clefairy",
+    "height": 6,
+    "weight": 75,
+    "base_experience": 113,
+    "types": [
+      "fairy"
+    ],
+    "abilities": [
+      "cute-charm",
+      "magic-guard",
+      "friend-guard"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
+  },
+  {
+    "id": 36,
+    "name": "clefable",
+    "height": 13,
+    "weight": 400,
+    "base_experience": 217,
+    "types": [
+      "fairy"
+    ],
+    "abilities": [
+      "cute-charm",
+      "magic-guard",
+      "unaware"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
+  },
+  {
+    "id": 37,
+    "name": "vulpix",
+    "height": 6,
+    "weight": 99,
+    "base_experience": 60,
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "flash-fire",
+      "drought"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
+  },
+  {
+    "id": 38,
+    "name": "ninetales",
+    "height": 11,
+    "weight": 199,
+    "base_experience": 177,
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "flash-fire",
+      "drought"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
+  },
+  {
+    "id": 39,
+    "name": "jigglypuff",
+    "height": 5,
+    "weight": 55,
+    "base_experience": 95,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "abilities": [
+      "cute-charm",
+      "competitive",
+      "friend-guard"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+  },
+  {
+    "id": 40,
+    "name": "wigglytuff",
+    "height": 10,
+    "weight": 120,
+    "base_experience": 196,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "abilities": [
+      "cute-charm",
+      "competitive",
+      "frisk"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
+  },
+  {
+    "id": 41,
+    "name": "zubat",
+    "height": 8,
+    "weight": 75,
+    "base_experience": 49,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "abilities": [
+      "inner-focus",
+      "infiltrator"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+  },
+  {
+    "id": 42,
+    "name": "golbat",
+    "height": 16,
+    "weight": 550,
+    "base_experience": 159,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "abilities": [
+      "inner-focus",
+      "infiltrator"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
+  },
+  {
+    "id": 43,
+    "name": "oddish",
+    "height": 5,
+    "weight": 54,
+    "base_experience": 64,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "run-away"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+  },
+  {
+    "id": 44,
+    "name": "gloom",
+    "height": 8,
+    "weight": 86,
+    "base_experience": 138,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "stench"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
+  },
+  {
+    "id": 45,
+    "name": "vileplume",
+    "height": 12,
+    "weight": 186,
+    "base_experience": 221,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "effect-spore"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
+  },
+  {
+    "id": 46,
+    "name": "paras",
+    "height": 3,
+    "weight": 54,
+    "base_experience": 57,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "abilities": [
+      "effect-spore",
+      "dry-skin",
+      "damp"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
+  },
+  {
+    "id": 47,
+    "name": "parasect",
+    "height": 10,
+    "weight": 295,
+    "base_experience": 142,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "abilities": [
+      "effect-spore",
+      "dry-skin",
+      "damp"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
+  },
+  {
+    "id": 48,
+    "name": "venonat",
+    "height": 10,
+    "weight": 300,
+    "base_experience": 61,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "compound-eyes",
+      "tinted-lens",
+      "run-away"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
+  },
+  {
+    "id": 49,
+    "name": "venomoth",
+    "height": 15,
+    "weight": 125,
+    "base_experience": 158,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "shield-dust",
+      "tinted-lens",
+      "wonder-skin"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
+  },
+  {
+    "id": 50,
+    "name": "diglett",
+    "height": 2,
+    "weight": 8,
+    "base_experience": 53,
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "arena-trap",
+      "sand-force"
+    ],
+    "sprites_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
+  }
+]
